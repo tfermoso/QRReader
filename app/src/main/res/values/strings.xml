@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR Reader</string>
+    <string name="result_text_default">Leer código</string>
+</resources>
