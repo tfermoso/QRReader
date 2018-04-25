@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910012131966",
+    "firebase_url": "https://eventosapp-ede6a.firebaseio.com",
+    "project_id": "eventosapp-ede6a",
+    "storage_bucket": "eventosapp-ede6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910012131966:android:3d01963ba5b8a8cc",
+        "android_client_info": {
+          "package_name": "com.spinoffpyme.qrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910012131966-fgm42hd635h7uo4sfjgcio0gmea8ohve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinoffpyme.qrreader",
+            "certificate_hash": "c3073ec86f5aca62bbee5039dc4d775503557e7d"
+          }
+        },
+        {
+          "client_id": "910012131966-m8diupmamn96vk77l1t4a973vkc905u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4fsWvg6ILb7wwxYPa9pfsi-0A8DF7t8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910012131966-m8diupmamn96vk77l1t4a973vkc905u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
